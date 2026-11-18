@@ -1,12 +1,12 @@
-## Hi, I'm Fatma Khalid 👋
+## Hi, I'm Fatma Khalid 
 
 **Junior Data Engineer** building batch and real-time data pipelines with Python, SQL, Apache Airflow, Kafka, and Spark.
 
-- 🎓 Data Engineering track, **Digilians**: Egypt's Digital Pioneers presidential initiative (MCIT & Egyptian Military Academy)
-- ☁️ Microsoft Certified: **Azure Data Fundamentals (DP-900)**
-- 📍 Benha, Egypt · Open to Cairo & Remote roles
+-  Data Engineering track, **Digilians**: Egypt's Digital Pioneers presidential initiative (MCIT & Egyptian Military Academy)
+-  Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+-  Benha, Egypt · Open to Cairo & Remote roles
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -14,7 +14,7 @@
 | [**Real-Time Data Streaming Platform**](https://github.com/fk2762002-maker/Real-Time-Data-Streaming-Platform) | Streams transaction events through Kafka and Spark Structured Streaming into HDFS (Parquet), queried with Hive and visualized in Power BI | Kafka, Spark, HDFS, Hive, Docker |
 | [**Retail ETL Pipeline**](https://github.com/fk2762002-maker/Airflow-Postgresql-ETL) | Daily Airflow pipeline loading CSV and REST API data into PostgreSQL with validation and incremental loading | Airflow, Astro CLI, PostgreSQL, Python |
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages:** Python · SQL  
 **Big Data & Streaming:** Spark (PySpark, Structured Streaming) · Kafka · Debezium · HDFS · Hive · Parquet  
